@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>JanzeTeachesIT at Templeton</title>
+    <link href="https://janzeteachesittempleton.github.io/feed.xml" rel="self" />
+    <link href="https://janzeteachesittempleton.github.io" />
+    <updated>2019-11-17T20:44:36-08:00</updated>
+    <author>
+        <name>janzeteachesit</name>
+    </author>
+    <id>https://janzeteachesittempleton.github.io</id>
+
+    <entry>
+        <title>Hello, World!</title>
+        <author>
+            <name>janzeteachesit</name>
+        </author>
+        <link href="https://janzeteachesittempleton.github.io/hello-world.html"/>
+        <id>https://janzeteachesittempleton.github.io/hello-world.html</id>
+
+        <updated>2019-11-17T20:35:08-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

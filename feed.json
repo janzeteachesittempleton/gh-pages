@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JanzeTeachesIT at Templeton",
+    "description": "",
+    "home_page_url": "https://janzeteachesittempleton.github.io",
+    "feed_url": "https://janzeteachesittempleton.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "janzeteachesit"
+    },
+    "items": [
+        {
+            "id": "https://janzeteachesittempleton.github.io/hello-world.html",
+            "url": "https://janzeteachesittempleton.github.io/hello-world.html",
+            "title": "Hello, World!",
+            "author": {
+                "name": "janzeteachesit"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T20:35:08-08:00",
+            "date_modified": "2019-11-17T20:35:08-08:00"
+        }
+    ]
+}
